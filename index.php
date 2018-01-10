@@ -69,7 +69,7 @@ if($_POST){//show conversion
 
 <footer>
    <small>
-   &copy; 2017, All Rights Reserved  
+   &copy; 2018, All Rights Reserved  
        <br />
    <a href="http://validator.w3.org/check/referer" target="_blank">Valid HTML</a>
     <br />
